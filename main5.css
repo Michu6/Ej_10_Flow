@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.caja {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+
+.rojo {
+	background-color: #F20D38;
+	left: 0;
+	top: 0px;
+}
+
+.azul {
+	background-color: #0C89D8;
+	right: 0;
+	top: 0;
+
+}
+
+.amarillo {
+	background-color: #FDD413;
+	right: 0;
+	bottom: 0;
+}
+
+.verde {
+	background-color: #3BDD10;
+	left: 0;
+	bottom: 0;
+}
+

@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+}
+
+.caja {
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+
+.rojo {
+	background-color: #F20D38;
+}
+
+.azul {
+	background-color: #0C89D8;
+	margin-left: 200px;
+}
+
+.verde {
+	background-color: #3BDD10;
